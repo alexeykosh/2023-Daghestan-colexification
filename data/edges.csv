@@ -1,0 +1,842 @@
+source,target,weight
+avarskij,avarskij,0.0
+avarskij,agul'skij,0.0
+avarskij,azerbajdzhanskij,0.0
+avarskij,akushinskij darginskij,0.40634005763688763
+avarskij,andijskij,0.0
+avarskij,ahvahskij,0.0
+avarskij,bagvalinskij,0.0
+avarskij,bezhtinskij,0.0
+avarskij,gapshiminskij darginskij,0.0
+avarskij,gdymsko-fijskij lezginskij,0.0
+avarskij,ginuhskij,0.0
+avarskij,kadarskij darginskij,0.0
+avarskij,kajtagskij darginskij,0.0
+avarskij,karatinskij,0.0
+avarskij,kubachinskij darginskij,0.0
+avarskij,kumykskij,0.08357348703170028
+avarskij,lakskij,0.09798270893371758
+avarskij,lezginskij,0.0
+avarskij,megebskij,0.0
+avarskij,muirinskij darginskij,0.0
+avarskij,rutul'skij,0.0
+avarskij,sirhinskij darginskij,0.0
+avarskij,tabasaranskij,0.0
+avarskij,tukitinskij,0.0
+avarskij,hnovskij rutul'skij,0.0
+avarskij,tsahurskij,0.0
+avarskij,tsezskij,0.0
+avarskij,tsudaharskij darginskij,0.3631123919308357
+avarskij,chiragskij darginskij,0.0
+agul'skij,avarskij,0.0
+agul'skij,agul'skij,0.0
+agul'skij,azerbajdzhanskij,0.18875502008032127
+agul'skij,akushinskij darginskij,0.0
+agul'skij,andijskij,0.0
+agul'skij,ahvahskij,0.0
+agul'skij,bagvalinskij,0.0
+agul'skij,bezhtinskij,0.0
+agul'skij,gapshiminskij darginskij,0.0
+agul'skij,gdymsko-fijskij lezginskij,0.0
+agul'skij,ginuhskij,0.0
+agul'skij,kadarskij darginskij,0.0
+agul'skij,kajtagskij darginskij,0.0
+agul'skij,karatinskij,0.0
+agul'skij,kubachinskij darginskij,0.0
+agul'skij,kumykskij,0.0
+agul'skij,lakskij,0.07630522088353414
+agul'skij,lezginskij,0.7269076305220884
+agul'skij,megebskij,0.0
+agul'skij,muirinskij darginskij,0.0
+agul'skij,rutul'skij,0.0
+agul'skij,sirhinskij darginskij,0.0
+agul'skij,tabasaranskij,0.0
+agul'skij,tukitinskij,0.0
+agul'skij,hnovskij rutul'skij,0.0
+agul'skij,tsahurskij,0.0
+agul'skij,tsezskij,0.0
+agul'skij,tsudaharskij darginskij,0.0
+agul'skij,chiragskij darginskij,0.0
+azerbajdzhanskij,avarskij,0.0
+azerbajdzhanskij,agul'skij,0.0
+azerbajdzhanskij,azerbajdzhanskij,0.0
+azerbajdzhanskij,akushinskij darginskij,0.0
+azerbajdzhanskij,andijskij,0.0
+azerbajdzhanskij,ahvahskij,0.0
+azerbajdzhanskij,bagvalinskij,0.0
+azerbajdzhanskij,bezhtinskij,0.0
+azerbajdzhanskij,gapshiminskij darginskij,0.0
+azerbajdzhanskij,gdymsko-fijskij lezginskij,0.0
+azerbajdzhanskij,ginuhskij,0.0
+azerbajdzhanskij,kadarskij darginskij,0.0
+azerbajdzhanskij,kajtagskij darginskij,0.0
+azerbajdzhanskij,karatinskij,0.0
+azerbajdzhanskij,kubachinskij darginskij,0.0
+azerbajdzhanskij,kumykskij,0.0
+azerbajdzhanskij,lakskij,0.0
+azerbajdzhanskij,lezginskij,0.0
+azerbajdzhanskij,megebskij,0.0
+azerbajdzhanskij,muirinskij darginskij,0.0
+azerbajdzhanskij,rutul'skij,0.0
+azerbajdzhanskij,sirhinskij darginskij,0.0
+azerbajdzhanskij,tabasaranskij,0.0
+azerbajdzhanskij,tukitinskij,0.0
+azerbajdzhanskij,hnovskij rutul'skij,0.0
+azerbajdzhanskij,tsahurskij,0.0
+azerbajdzhanskij,tsezskij,0.0
+azerbajdzhanskij,tsudaharskij darginskij,0.0
+azerbajdzhanskij,chiragskij darginskij,0.0
+akushinskij darginskij,avarskij,0.1896551724137931
+akushinskij darginskij,agul'skij,0.0
+akushinskij darginskij,azerbajdzhanskij,0.0
+akushinskij darginskij,akushinskij darginskij,0.0
+akushinskij darginskij,andijskij,0.0
+akushinskij darginskij,ahvahskij,0.0
+akushinskij darginskij,bagvalinskij,0.0
+akushinskij darginskij,bezhtinskij,0.0
+akushinskij darginskij,gapshiminskij darginskij,0.0
+akushinskij darginskij,gdymsko-fijskij lezginskij,0.0
+akushinskij darginskij,ginuhskij,0.0
+akushinskij darginskij,kadarskij darginskij,0.0
+akushinskij darginskij,kajtagskij darginskij,0.0
+akushinskij darginskij,karatinskij,0.0
+akushinskij darginskij,kubachinskij darginskij,0.0
+akushinskij darginskij,kumykskij,0.3103448275862069
+akushinskij darginskij,lakskij,0.0
+akushinskij darginskij,lezginskij,0.0
+akushinskij darginskij,megebskij,0.0
+akushinskij darginskij,muirinskij darginskij,0.0
+akushinskij darginskij,rutul'skij,0.0
+akushinskij darginskij,sirhinskij darginskij,0.0
+akushinskij darginskij,tabasaranskij,0.0
+akushinskij darginskij,tukitinskij,0.0
+akushinskij darginskij,hnovskij rutul'skij,0.0
+akushinskij darginskij,tsahurskij,0.0
+akushinskij darginskij,tsezskij,0.0
+akushinskij darginskij,tsudaharskij darginskij,0.5
+akushinskij darginskij,chiragskij darginskij,0.0
+andijskij,avarskij,0.9716312056737588
+andijskij,agul'skij,0.0
+andijskij,azerbajdzhanskij,0.0
+andijskij,akushinskij darginskij,0.0
+andijskij,andijskij,0.0
+andijskij,ahvahskij,0.0
+andijskij,bagvalinskij,0.0
+andijskij,bezhtinskij,0.0
+andijskij,gapshiminskij darginskij,0.0
+andijskij,gdymsko-fijskij lezginskij,0.0
+andijskij,ginuhskij,0.0
+andijskij,kadarskij darginskij,0.0
+andijskij,kajtagskij darginskij,0.0
+andijskij,karatinskij,0.0
+andijskij,kubachinskij darginskij,0.0
+andijskij,kumykskij,0.0
+andijskij,lakskij,0.0
+andijskij,lezginskij,0.0
+andijskij,megebskij,0.0
+andijskij,muirinskij darginskij,0.0
+andijskij,rutul'skij,0.0
+andijskij,sirhinskij darginskij,0.0
+andijskij,tabasaranskij,0.0
+andijskij,tukitinskij,0.0
+andijskij,hnovskij rutul'skij,0.0
+andijskij,tsahurskij,0.0
+andijskij,tsezskij,0.0
+andijskij,tsudaharskij darginskij,0.0
+andijskij,chiragskij darginskij,0.0
+ahvahskij,avarskij,0.9137931034482759
+ahvahskij,agul'skij,0.0
+ahvahskij,azerbajdzhanskij,0.0
+ahvahskij,akushinskij darginskij,0.0
+ahvahskij,andijskij,0.0
+ahvahskij,ahvahskij,0.0
+ahvahskij,bagvalinskij,0.0
+ahvahskij,bezhtinskij,0.0
+ahvahskij,gapshiminskij darginskij,0.0
+ahvahskij,gdymsko-fijskij lezginskij,0.0
+ahvahskij,ginuhskij,0.0
+ahvahskij,kadarskij darginskij,0.0
+ahvahskij,kajtagskij darginskij,0.0
+ahvahskij,karatinskij,0.0
+ahvahskij,kubachinskij darginskij,0.0
+ahvahskij,kumykskij,0.0
+ahvahskij,lakskij,0.0
+ahvahskij,lezginskij,0.0
+ahvahskij,megebskij,0.0
+ahvahskij,muirinskij darginskij,0.0
+ahvahskij,rutul'skij,0.0
+ahvahskij,sirhinskij darginskij,0.0
+ahvahskij,tabasaranskij,0.0
+ahvahskij,tukitinskij,0.0
+ahvahskij,hnovskij rutul'skij,0.0
+ahvahskij,tsahurskij,0.0
+ahvahskij,tsezskij,0.0
+ahvahskij,tsudaharskij darginskij,0.0
+ahvahskij,chiragskij darginskij,0.0
+bagvalinskij,avarskij,0.8181818181818182
+bagvalinskij,agul'skij,0.0
+bagvalinskij,azerbajdzhanskij,0.0
+bagvalinskij,akushinskij darginskij,0.0
+bagvalinskij,andijskij,0.0
+bagvalinskij,ahvahskij,0.1339712918660287
+bagvalinskij,bagvalinskij,0.0
+bagvalinskij,bezhtinskij,0.0
+bagvalinskij,gapshiminskij darginskij,0.0
+bagvalinskij,gdymsko-fijskij lezginskij,0.0
+bagvalinskij,ginuhskij,0.0
+bagvalinskij,kadarskij darginskij,0.0
+bagvalinskij,kajtagskij darginskij,0.0
+bagvalinskij,karatinskij,0.0
+bagvalinskij,kubachinskij darginskij,0.0
+bagvalinskij,kumykskij,0.0
+bagvalinskij,lakskij,0.0
+bagvalinskij,lezginskij,0.0
+bagvalinskij,megebskij,0.0
+bagvalinskij,muirinskij darginskij,0.0
+bagvalinskij,rutul'skij,0.0
+bagvalinskij,sirhinskij darginskij,0.0
+bagvalinskij,tabasaranskij,0.0
+bagvalinskij,tukitinskij,0.0
+bagvalinskij,hnovskij rutul'skij,0.0
+bagvalinskij,tsahurskij,0.0
+bagvalinskij,tsezskij,0.0
+bagvalinskij,tsudaharskij darginskij,0.0
+bagvalinskij,chiragskij darginskij,0.0
+bezhtinskij,avarskij,0.9150943396226415
+bezhtinskij,agul'skij,0.0
+bezhtinskij,azerbajdzhanskij,0.0
+bezhtinskij,akushinskij darginskij,0.0
+bezhtinskij,andijskij,0.0
+bezhtinskij,ahvahskij,0.0
+bezhtinskij,bagvalinskij,0.0
+bezhtinskij,bezhtinskij,0.0
+bezhtinskij,gapshiminskij darginskij,0.0
+bezhtinskij,gdymsko-fijskij lezginskij,0.0
+bezhtinskij,ginuhskij,0.0
+bezhtinskij,kadarskij darginskij,0.0
+bezhtinskij,kajtagskij darginskij,0.0
+bezhtinskij,karatinskij,0.0
+bezhtinskij,kubachinskij darginskij,0.0
+bezhtinskij,kumykskij,0.0
+bezhtinskij,lakskij,0.0
+bezhtinskij,lezginskij,0.0
+bezhtinskij,megebskij,0.0
+bezhtinskij,muirinskij darginskij,0.0
+bezhtinskij,rutul'skij,0.0
+bezhtinskij,sirhinskij darginskij,0.0
+bezhtinskij,tabasaranskij,0.0
+bezhtinskij,tukitinskij,0.0
+bezhtinskij,hnovskij rutul'skij,0.0
+bezhtinskij,tsahurskij,0.0
+bezhtinskij,tsezskij,0.0
+bezhtinskij,tsudaharskij darginskij,0.0
+bezhtinskij,chiragskij darginskij,0.0
+gapshiminskij darginskij,avarskij,0.05263157894736842
+gapshiminskij darginskij,agul'skij,0.0
+gapshiminskij darginskij,azerbajdzhanskij,0.0
+gapshiminskij darginskij,akushinskij darginskij,0.0
+gapshiminskij darginskij,andijskij,0.0
+gapshiminskij darginskij,ahvahskij,0.0
+gapshiminskij darginskij,bagvalinskij,0.0
+gapshiminskij darginskij,bezhtinskij,0.0
+gapshiminskij darginskij,gapshiminskij darginskij,0.0
+gapshiminskij darginskij,gdymsko-fijskij lezginskij,0.0
+gapshiminskij darginskij,ginuhskij,0.0
+gapshiminskij darginskij,kadarskij darginskij,0.0
+gapshiminskij darginskij,kajtagskij darginskij,0.0
+gapshiminskij darginskij,karatinskij,0.0
+gapshiminskij darginskij,kubachinskij darginskij,0.0
+gapshiminskij darginskij,kumykskij,0.0
+gapshiminskij darginskij,lakskij,0.9473684210526315
+gapshiminskij darginskij,lezginskij,0.0
+gapshiminskij darginskij,megebskij,0.0
+gapshiminskij darginskij,muirinskij darginskij,0.0
+gapshiminskij darginskij,rutul'skij,0.0
+gapshiminskij darginskij,sirhinskij darginskij,0.0
+gapshiminskij darginskij,tabasaranskij,0.0
+gapshiminskij darginskij,tukitinskij,0.0
+gapshiminskij darginskij,hnovskij rutul'skij,0.0
+gapshiminskij darginskij,tsahurskij,0.0
+gapshiminskij darginskij,tsezskij,0.0
+gapshiminskij darginskij,tsudaharskij darginskij,0.0
+gapshiminskij darginskij,chiragskij darginskij,0.0
+gdymsko-fijskij lezginskij,avarskij,0.0
+gdymsko-fijskij lezginskij,agul'skij,0.0
+gdymsko-fijskij lezginskij,azerbajdzhanskij,0.8648648648648649
+gdymsko-fijskij lezginskij,akushinskij darginskij,0.0
+gdymsko-fijskij lezginskij,andijskij,0.0
+gdymsko-fijskij lezginskij,ahvahskij,0.0
+gdymsko-fijskij lezginskij,bagvalinskij,0.0
+gdymsko-fijskij lezginskij,bezhtinskij,0.0
+gdymsko-fijskij lezginskij,gapshiminskij darginskij,0.0
+gdymsko-fijskij lezginskij,gdymsko-fijskij lezginskij,0.0
+gdymsko-fijskij lezginskij,ginuhskij,0.0
+gdymsko-fijskij lezginskij,kadarskij darginskij,0.0
+gdymsko-fijskij lezginskij,kajtagskij darginskij,0.0
+gdymsko-fijskij lezginskij,karatinskij,0.0
+gdymsko-fijskij lezginskij,kubachinskij darginskij,0.0
+gdymsko-fijskij lezginskij,kumykskij,0.0
+gdymsko-fijskij lezginskij,lakskij,0.0
+gdymsko-fijskij lezginskij,lezginskij,0.0
+gdymsko-fijskij lezginskij,megebskij,0.0
+gdymsko-fijskij lezginskij,muirinskij darginskij,0.0
+gdymsko-fijskij lezginskij,rutul'skij,0.0
+gdymsko-fijskij lezginskij,sirhinskij darginskij,0.0
+gdymsko-fijskij lezginskij,tabasaranskij,0.0
+gdymsko-fijskij lezginskij,tukitinskij,0.0
+gdymsko-fijskij lezginskij,hnovskij rutul'skij,0.13513513513513514
+gdymsko-fijskij lezginskij,tsahurskij,0.0
+gdymsko-fijskij lezginskij,tsezskij,0.0
+gdymsko-fijskij lezginskij,tsudaharskij darginskij,0.0
+gdymsko-fijskij lezginskij,chiragskij darginskij,0.0
+ginuhskij,avarskij,0.36790123456790125
+ginuhskij,agul'skij,0.0
+ginuhskij,azerbajdzhanskij,0.0
+ginuhskij,akushinskij darginskij,0.0
+ginuhskij,andijskij,0.0
+ginuhskij,ahvahskij,0.0
+ginuhskij,bagvalinskij,0.0
+ginuhskij,bezhtinskij,0.2641975308641975
+ginuhskij,gapshiminskij darginskij,0.0
+ginuhskij,gdymsko-fijskij lezginskij,0.0
+ginuhskij,ginuhskij,0.0
+ginuhskij,kadarskij darginskij,0.0
+ginuhskij,kajtagskij darginskij,0.0
+ginuhskij,karatinskij,0.0
+ginuhskij,kubachinskij darginskij,0.0
+ginuhskij,kumykskij,0.0
+ginuhskij,lakskij,0.0
+ginuhskij,lezginskij,0.0
+ginuhskij,megebskij,0.0
+ginuhskij,muirinskij darginskij,0.0
+ginuhskij,rutul'skij,0.0
+ginuhskij,sirhinskij darginskij,0.0
+ginuhskij,tabasaranskij,0.0
+ginuhskij,tukitinskij,0.0
+ginuhskij,hnovskij rutul'skij,0.0
+ginuhskij,tsahurskij,0.0
+ginuhskij,tsezskij,0.36790123456790125
+ginuhskij,tsudaharskij darginskij,0.0
+ginuhskij,chiragskij darginskij,0.0
+kadarskij darginskij,avarskij,0.14893617021276595
+kadarskij darginskij,agul'skij,0.0
+kadarskij darginskij,azerbajdzhanskij,0.0
+kadarskij darginskij,akushinskij darginskij,0.0
+kadarskij darginskij,andijskij,0.0
+kadarskij darginskij,ahvahskij,0.0
+kadarskij darginskij,bagvalinskij,0.0
+kadarskij darginskij,bezhtinskij,0.0
+kadarskij darginskij,gapshiminskij darginskij,0.0
+kadarskij darginskij,gdymsko-fijskij lezginskij,0.0
+kadarskij darginskij,ginuhskij,0.0
+kadarskij darginskij,kadarskij darginskij,0.0
+kadarskij darginskij,kajtagskij darginskij,0.0
+kadarskij darginskij,karatinskij,0.0
+kadarskij darginskij,kubachinskij darginskij,0.0
+kadarskij darginskij,kumykskij,0.851063829787234
+kadarskij darginskij,lakskij,0.0
+kadarskij darginskij,lezginskij,0.0
+kadarskij darginskij,megebskij,0.0
+kadarskij darginskij,muirinskij darginskij,0.0
+kadarskij darginskij,rutul'skij,0.0
+kadarskij darginskij,sirhinskij darginskij,0.0
+kadarskij darginskij,tabasaranskij,0.0
+kadarskij darginskij,tukitinskij,0.0
+kadarskij darginskij,hnovskij rutul'skij,0.0
+kadarskij darginskij,tsahurskij,0.0
+kadarskij darginskij,tsezskij,0.0
+kadarskij darginskij,tsudaharskij darginskij,0.0
+kadarskij darginskij,chiragskij darginskij,0.0
+kajtagskij darginskij,avarskij,0.0
+kajtagskij darginskij,agul'skij,0.0
+kajtagskij darginskij,azerbajdzhanskij,0.0
+kajtagskij darginskij,akushinskij darginskij,0.8026315789473685
+kajtagskij darginskij,andijskij,0.0
+kajtagskij darginskij,ahvahskij,0.0
+kajtagskij darginskij,bagvalinskij,0.0
+kajtagskij darginskij,bezhtinskij,0.0
+kajtagskij darginskij,gapshiminskij darginskij,0.0
+kajtagskij darginskij,gdymsko-fijskij lezginskij,0.0
+kajtagskij darginskij,ginuhskij,0.0
+kajtagskij darginskij,kadarskij darginskij,0.0
+kajtagskij darginskij,kajtagskij darginskij,0.0
+kajtagskij darginskij,karatinskij,0.0
+kajtagskij darginskij,kubachinskij darginskij,0.0
+kajtagskij darginskij,kumykskij,0.0
+kajtagskij darginskij,lakskij,0.0
+kajtagskij darginskij,lezginskij,0.0
+kajtagskij darginskij,megebskij,0.0
+kajtagskij darginskij,muirinskij darginskij,0.0
+kajtagskij darginskij,rutul'skij,0.0
+kajtagskij darginskij,sirhinskij darginskij,0.0
+kajtagskij darginskij,tabasaranskij,0.19736842105263158
+kajtagskij darginskij,tukitinskij,0.0
+kajtagskij darginskij,hnovskij rutul'skij,0.0
+kajtagskij darginskij,tsahurskij,0.0
+kajtagskij darginskij,tsezskij,0.0
+kajtagskij darginskij,tsudaharskij darginskij,0.0
+kajtagskij darginskij,chiragskij darginskij,0.0
+karatinskij,avarskij,0.9615384615384616
+karatinskij,agul'skij,0.0
+karatinskij,azerbajdzhanskij,0.0
+karatinskij,akushinskij darginskij,0.0
+karatinskij,andijskij,0.0
+karatinskij,ahvahskij,0.0
+karatinskij,bagvalinskij,0.0
+karatinskij,bezhtinskij,0.0
+karatinskij,gapshiminskij darginskij,0.0
+karatinskij,gdymsko-fijskij lezginskij,0.0
+karatinskij,ginuhskij,0.0
+karatinskij,kadarskij darginskij,0.0
+karatinskij,kajtagskij darginskij,0.0
+karatinskij,karatinskij,0.0
+karatinskij,kubachinskij darginskij,0.0
+karatinskij,kumykskij,0.0
+karatinskij,lakskij,0.0
+karatinskij,lezginskij,0.0
+karatinskij,megebskij,0.0
+karatinskij,muirinskij darginskij,0.0
+karatinskij,rutul'skij,0.0
+karatinskij,sirhinskij darginskij,0.0
+karatinskij,tabasaranskij,0.0
+karatinskij,tukitinskij,0.0
+karatinskij,hnovskij rutul'skij,0.0
+karatinskij,tsahurskij,0.0
+karatinskij,tsezskij,0.0
+karatinskij,tsudaharskij darginskij,0.0
+karatinskij,chiragskij darginskij,0.0
+kubachinskij darginskij,avarskij,0.0
+kubachinskij darginskij,agul'skij,0.0
+kubachinskij darginskij,azerbajdzhanskij,0.0
+kubachinskij darginskij,akushinskij darginskij,0.7441860465116279
+kubachinskij darginskij,andijskij,0.0
+kubachinskij darginskij,ahvahskij,0.0
+kubachinskij darginskij,bagvalinskij,0.0
+kubachinskij darginskij,bezhtinskij,0.0
+kubachinskij darginskij,gapshiminskij darginskij,0.0
+kubachinskij darginskij,gdymsko-fijskij lezginskij,0.0
+kubachinskij darginskij,ginuhskij,0.0
+kubachinskij darginskij,kadarskij darginskij,0.0
+kubachinskij darginskij,kajtagskij darginskij,0.0
+kubachinskij darginskij,karatinskij,0.0
+kubachinskij darginskij,kubachinskij darginskij,0.0
+kubachinskij darginskij,kumykskij,0.05813953488372093
+kubachinskij darginskij,lakskij,0.0
+kubachinskij darginskij,lezginskij,0.0
+kubachinskij darginskij,megebskij,0.0
+kubachinskij darginskij,muirinskij darginskij,0.0
+kubachinskij darginskij,rutul'skij,0.0
+kubachinskij darginskij,sirhinskij darginskij,0.19767441860465115
+kubachinskij darginskij,tabasaranskij,0.0
+kubachinskij darginskij,tukitinskij,0.0
+kubachinskij darginskij,hnovskij rutul'skij,0.0
+kubachinskij darginskij,tsahurskij,0.0
+kubachinskij darginskij,tsezskij,0.0
+kubachinskij darginskij,tsudaharskij darginskij,0.0
+kubachinskij darginskij,chiragskij darginskij,0.0
+kumykskij,avarskij,0.0
+kumykskij,agul'skij,0.0
+kumykskij,azerbajdzhanskij,0.0
+kumykskij,akushinskij darginskij,0.0
+kumykskij,andijskij,0.0
+kumykskij,ahvahskij,0.0
+kumykskij,bagvalinskij,0.0
+kumykskij,bezhtinskij,0.0
+kumykskij,gapshiminskij darginskij,0.0
+kumykskij,gdymsko-fijskij lezginskij,0.0
+kumykskij,ginuhskij,0.0
+kumykskij,kadarskij darginskij,0.0
+kumykskij,kajtagskij darginskij,0.0
+kumykskij,karatinskij,0.0
+kumykskij,kubachinskij darginskij,0.0
+kumykskij,kumykskij,0.0
+kumykskij,lakskij,0.0
+kumykskij,lezginskij,0.0
+kumykskij,megebskij,0.0
+kumykskij,muirinskij darginskij,0.0
+kumykskij,rutul'skij,0.0
+kumykskij,sirhinskij darginskij,0.0
+kumykskij,tabasaranskij,0.0
+kumykskij,tukitinskij,0.0
+kumykskij,hnovskij rutul'skij,0.0
+kumykskij,tsahurskij,0.0
+kumykskij,tsezskij,0.0
+kumykskij,tsudaharskij darginskij,0.0
+kumykskij,chiragskij darginskij,0.0
+lakskij,avarskij,1.0
+lakskij,agul'skij,0.0
+lakskij,azerbajdzhanskij,0.0
+lakskij,akushinskij darginskij,0.0
+lakskij,andijskij,0.0
+lakskij,ahvahskij,0.0
+lakskij,bagvalinskij,0.0
+lakskij,bezhtinskij,0.0
+lakskij,gapshiminskij darginskij,0.0
+lakskij,gdymsko-fijskij lezginskij,0.0
+lakskij,ginuhskij,0.0
+lakskij,kadarskij darginskij,0.0
+lakskij,kajtagskij darginskij,0.0
+lakskij,karatinskij,0.0
+lakskij,kubachinskij darginskij,0.0
+lakskij,kumykskij,0.0
+lakskij,lakskij,0.0
+lakskij,lezginskij,0.0
+lakskij,megebskij,0.0
+lakskij,muirinskij darginskij,0.0
+lakskij,rutul'skij,0.0
+lakskij,sirhinskij darginskij,0.0
+lakskij,tabasaranskij,0.0
+lakskij,tukitinskij,0.0
+lakskij,hnovskij rutul'skij,0.0
+lakskij,tsahurskij,0.0
+lakskij,tsezskij,0.0
+lakskij,tsudaharskij darginskij,0.0
+lakskij,chiragskij darginskij,0.0
+lezginskij,avarskij,0.0
+lezginskij,agul'skij,0.0
+lezginskij,azerbajdzhanskij,0.625
+lezginskij,akushinskij darginskij,0.0
+lezginskij,andijskij,0.0
+lezginskij,ahvahskij,0.0
+lezginskij,bagvalinskij,0.0
+lezginskij,bezhtinskij,0.0
+lezginskij,gapshiminskij darginskij,0.0
+lezginskij,gdymsko-fijskij lezginskij,0.0
+lezginskij,ginuhskij,0.0
+lezginskij,kadarskij darginskij,0.0
+lezginskij,kajtagskij darginskij,0.0
+lezginskij,karatinskij,0.0
+lezginskij,kubachinskij darginskij,0.0
+lezginskij,kumykskij,0.0
+lezginskij,lakskij,0.0
+lezginskij,lezginskij,0.0
+lezginskij,megebskij,0.0
+lezginskij,muirinskij darginskij,0.0
+lezginskij,rutul'skij,0.375
+lezginskij,sirhinskij darginskij,0.0
+lezginskij,tabasaranskij,0.0
+lezginskij,tukitinskij,0.0
+lezginskij,hnovskij rutul'skij,0.0
+lezginskij,tsahurskij,0.0
+lezginskij,tsezskij,0.0
+lezginskij,tsudaharskij darginskij,0.0
+lezginskij,chiragskij darginskij,0.0
+megebskij,avarskij,0.7172774869109948
+megebskij,agul'skij,0.0
+megebskij,azerbajdzhanskij,0.0
+megebskij,akushinskij darginskij,0.0
+megebskij,andijskij,0.0
+megebskij,ahvahskij,0.0
+megebskij,bagvalinskij,0.0
+megebskij,bezhtinskij,0.0
+megebskij,gapshiminskij darginskij,0.0
+megebskij,gdymsko-fijskij lezginskij,0.0
+megebskij,ginuhskij,0.0
+megebskij,kadarskij darginskij,0.0
+megebskij,kajtagskij darginskij,0.0
+megebskij,karatinskij,0.0
+megebskij,kubachinskij darginskij,0.0
+megebskij,kumykskij,0.0
+megebskij,lakskij,0.28272251308900526
+megebskij,lezginskij,0.0
+megebskij,megebskij,0.0
+megebskij,muirinskij darginskij,0.0
+megebskij,rutul'skij,0.0
+megebskij,sirhinskij darginskij,0.0
+megebskij,tabasaranskij,0.0
+megebskij,tukitinskij,0.0
+megebskij,hnovskij rutul'skij,0.0
+megebskij,tsahurskij,0.0
+megebskij,tsezskij,0.0
+megebskij,tsudaharskij darginskij,0.0
+megebskij,chiragskij darginskij,0.0
+muirinskij darginskij,avarskij,0.0
+muirinskij darginskij,agul'skij,0.0
+muirinskij darginskij,azerbajdzhanskij,0.0
+muirinskij darginskij,akushinskij darginskij,0.0
+muirinskij darginskij,andijskij,0.0
+muirinskij darginskij,ahvahskij,0.0
+muirinskij darginskij,bagvalinskij,0.0
+muirinskij darginskij,bezhtinskij,0.0
+muirinskij darginskij,gapshiminskij darginskij,0.0
+muirinskij darginskij,gdymsko-fijskij lezginskij,0.0
+muirinskij darginskij,ginuhskij,0.0
+muirinskij darginskij,kadarskij darginskij,0.0
+muirinskij darginskij,kajtagskij darginskij,0.0
+muirinskij darginskij,karatinskij,0.0
+muirinskij darginskij,kubachinskij darginskij,0.0
+muirinskij darginskij,kumykskij,1.0
+muirinskij darginskij,lakskij,0.0
+muirinskij darginskij,lezginskij,0.0
+muirinskij darginskij,megebskij,0.0
+muirinskij darginskij,muirinskij darginskij,0.0
+muirinskij darginskij,rutul'skij,0.0
+muirinskij darginskij,sirhinskij darginskij,0.0
+muirinskij darginskij,tabasaranskij,0.0
+muirinskij darginskij,tukitinskij,0.0
+muirinskij darginskij,hnovskij rutul'skij,0.0
+muirinskij darginskij,tsahurskij,0.0
+muirinskij darginskij,tsezskij,0.0
+muirinskij darginskij,tsudaharskij darginskij,0.0
+muirinskij darginskij,chiragskij darginskij,0.0
+rutul'skij,avarskij,0.0
+rutul'skij,agul'skij,0.0
+rutul'skij,azerbajdzhanskij,0.5960144927536232
+rutul'skij,akushinskij darginskij,0.0
+rutul'skij,andijskij,0.0
+rutul'skij,ahvahskij,0.0
+rutul'skij,bagvalinskij,0.0
+rutul'skij,bezhtinskij,0.0
+rutul'skij,gapshiminskij darginskij,0.0
+rutul'skij,gdymsko-fijskij lezginskij,0.0
+rutul'skij,ginuhskij,0.0
+rutul'skij,kadarskij darginskij,0.0
+rutul'skij,kajtagskij darginskij,0.0
+rutul'skij,karatinskij,0.0
+rutul'skij,kubachinskij darginskij,0.0
+rutul'skij,kumykskij,0.0
+rutul'skij,lakskij,0.0
+rutul'skij,lezginskij,0.3351449275362319
+rutul'skij,megebskij,0.0
+rutul'skij,muirinskij darginskij,0.0
+rutul'skij,rutul'skij,0.0
+rutul'skij,sirhinskij darginskij,0.0
+rutul'skij,tabasaranskij,0.0
+rutul'skij,tukitinskij,0.0
+rutul'skij,hnovskij rutul'skij,0.0
+rutul'skij,tsahurskij,0.06340579710144928
+rutul'skij,tsezskij,0.0
+rutul'skij,tsudaharskij darginskij,0.0
+rutul'skij,chiragskij darginskij,0.0
+sirhinskij darginskij,avarskij,0.0
+sirhinskij darginskij,agul'skij,0.0
+sirhinskij darginskij,azerbajdzhanskij,0.0
+sirhinskij darginskij,akushinskij darginskij,0.8071748878923767
+sirhinskij darginskij,andijskij,0.0
+sirhinskij darginskij,ahvahskij,0.0
+sirhinskij darginskij,bagvalinskij,0.0
+sirhinskij darginskij,bezhtinskij,0.0
+sirhinskij darginskij,gapshiminskij darginskij,0.0
+sirhinskij darginskij,gdymsko-fijskij lezginskij,0.0
+sirhinskij darginskij,ginuhskij,0.0
+sirhinskij darginskij,kadarskij darginskij,0.0
+sirhinskij darginskij,kajtagskij darginskij,0.0
+sirhinskij darginskij,karatinskij,0.0
+sirhinskij darginskij,kubachinskij darginskij,0.12556053811659193
+sirhinskij darginskij,kumykskij,0.06726457399103139
+sirhinskij darginskij,lakskij,0.0
+sirhinskij darginskij,lezginskij,0.0
+sirhinskij darginskij,megebskij,0.0
+sirhinskij darginskij,muirinskij darginskij,0.0
+sirhinskij darginskij,rutul'skij,0.0
+sirhinskij darginskij,sirhinskij darginskij,0.0
+sirhinskij darginskij,tabasaranskij,0.0
+sirhinskij darginskij,tukitinskij,0.0
+sirhinskij darginskij,hnovskij rutul'skij,0.0
+sirhinskij darginskij,tsahurskij,0.0
+sirhinskij darginskij,tsezskij,0.0
+sirhinskij darginskij,tsudaharskij darginskij,0.0
+sirhinskij darginskij,chiragskij darginskij,0.0
+tabasaranskij,avarskij,0.0
+tabasaranskij,agul'skij,0.0
+tabasaranskij,azerbajdzhanskij,0.0
+tabasaranskij,akushinskij darginskij,0.0
+tabasaranskij,andijskij,0.0
+tabasaranskij,ahvahskij,0.0
+tabasaranskij,bagvalinskij,0.0
+tabasaranskij,bezhtinskij,0.0
+tabasaranskij,gapshiminskij darginskij,0.0
+tabasaranskij,gdymsko-fijskij lezginskij,0.0
+tabasaranskij,ginuhskij,0.0
+tabasaranskij,kadarskij darginskij,0.0
+tabasaranskij,kajtagskij darginskij,0.0
+tabasaranskij,karatinskij,0.0
+tabasaranskij,kubachinskij darginskij,0.0
+tabasaranskij,kumykskij,0.0
+tabasaranskij,lakskij,0.0
+tabasaranskij,lezginskij,0.0
+tabasaranskij,megebskij,0.0
+tabasaranskij,muirinskij darginskij,0.0
+tabasaranskij,rutul'skij,0.0
+tabasaranskij,sirhinskij darginskij,0.0
+tabasaranskij,tabasaranskij,0.0
+tabasaranskij,tukitinskij,0.0
+tabasaranskij,hnovskij rutul'skij,0.0
+tabasaranskij,tsahurskij,0.0
+tabasaranskij,tsezskij,0.0
+tabasaranskij,tsudaharskij darginskij,0.0
+tabasaranskij,chiragskij darginskij,0.0
+tukitinskij,avarskij,0.7962962962962963
+tukitinskij,agul'skij,0.0
+tukitinskij,azerbajdzhanskij,0.0
+tukitinskij,akushinskij darginskij,0.0
+tukitinskij,andijskij,0.0
+tukitinskij,ahvahskij,0.0
+tukitinskij,bagvalinskij,0.0
+tukitinskij,bezhtinskij,0.0
+tukitinskij,gapshiminskij darginskij,0.0
+tukitinskij,gdymsko-fijskij lezginskij,0.0
+tukitinskij,ginuhskij,0.0
+tukitinskij,kadarskij darginskij,0.0
+tukitinskij,kajtagskij darginskij,0.0
+tukitinskij,karatinskij,0.12962962962962962
+tukitinskij,kubachinskij darginskij,0.0
+tukitinskij,kumykskij,0.0
+tukitinskij,lakskij,0.0
+tukitinskij,lezginskij,0.0
+tukitinskij,megebskij,0.0
+tukitinskij,muirinskij darginskij,0.0
+tukitinskij,rutul'skij,0.0
+tukitinskij,sirhinskij darginskij,0.0
+tukitinskij,tabasaranskij,0.0
+tukitinskij,tukitinskij,0.0
+tukitinskij,hnovskij rutul'skij,0.0
+tukitinskij,tsahurskij,0.0
+tukitinskij,tsezskij,0.0
+tukitinskij,tsudaharskij darginskij,0.0
+tukitinskij,chiragskij darginskij,0.0
+hnovskij rutul'skij,avarskij,0.0
+hnovskij rutul'skij,agul'skij,0.0
+hnovskij rutul'skij,azerbajdzhanskij,0.6432432432432432
+hnovskij rutul'skij,akushinskij darginskij,0.0
+hnovskij rutul'skij,andijskij,0.0
+hnovskij rutul'skij,ahvahskij,0.0
+hnovskij rutul'skij,bagvalinskij,0.0
+hnovskij rutul'skij,bezhtinskij,0.0
+hnovskij rutul'skij,gapshiminskij darginskij,0.0
+hnovskij rutul'skij,gdymsko-fijskij lezginskij,0.0
+hnovskij rutul'skij,ginuhskij,0.0
+hnovskij rutul'skij,kadarskij darginskij,0.0
+hnovskij rutul'skij,kajtagskij darginskij,0.0
+hnovskij rutul'skij,karatinskij,0.0
+hnovskij rutul'skij,kubachinskij darginskij,0.0
+hnovskij rutul'skij,kumykskij,0.0
+hnovskij rutul'skij,lakskij,0.0
+hnovskij rutul'skij,lezginskij,0.3567567567567568
+hnovskij rutul'skij,megebskij,0.0
+hnovskij rutul'skij,muirinskij darginskij,0.0
+hnovskij rutul'skij,rutul'skij,0.0
+hnovskij rutul'skij,sirhinskij darginskij,0.0
+hnovskij rutul'skij,tabasaranskij,0.0
+hnovskij rutul'skij,tukitinskij,0.0
+hnovskij rutul'skij,hnovskij rutul'skij,0.0
+hnovskij rutul'skij,tsahurskij,0.0
+hnovskij rutul'skij,tsezskij,0.0
+hnovskij rutul'skij,tsudaharskij darginskij,0.0
+hnovskij rutul'skij,chiragskij darginskij,0.0
+tsahurskij,avarskij,0.0
+tsahurskij,agul'skij,0.0
+tsahurskij,azerbajdzhanskij,0.8117154811715481
+tsahurskij,akushinskij darginskij,0.0
+tsahurskij,andijskij,0.0
+tsahurskij,ahvahskij,0.0
+tsahurskij,bagvalinskij,0.0
+tsahurskij,bezhtinskij,0.0
+tsahurskij,gapshiminskij darginskij,0.0
+tsahurskij,gdymsko-fijskij lezginskij,0.0
+tsahurskij,ginuhskij,0.0
+tsahurskij,kadarskij darginskij,0.0
+tsahurskij,kajtagskij darginskij,0.0
+tsahurskij,karatinskij,0.0
+tsahurskij,kubachinskij darginskij,0.0
+tsahurskij,kumykskij,0.0
+tsahurskij,lakskij,0.0
+tsahurskij,lezginskij,0.058577405857740586
+tsahurskij,megebskij,0.0
+tsahurskij,muirinskij darginskij,0.0
+tsahurskij,rutul'skij,0.1297071129707113
+tsahurskij,sirhinskij darginskij,0.0
+tsahurskij,tabasaranskij,0.0
+tsahurskij,tukitinskij,0.0
+tsahurskij,hnovskij rutul'skij,0.0
+tsahurskij,tsahurskij,0.0
+tsahurskij,tsezskij,0.0
+tsahurskij,tsudaharskij darginskij,0.0
+tsahurskij,chiragskij darginskij,0.0
+tsezskij,avarskij,0.8582677165354331
+tsezskij,agul'skij,0.0
+tsezskij,azerbajdzhanskij,0.0
+tsezskij,akushinskij darginskij,0.0
+tsezskij,andijskij,0.0
+tsezskij,ahvahskij,0.0
+tsezskij,bagvalinskij,0.0
+tsezskij,bezhtinskij,0.051181102362204724
+tsezskij,gapshiminskij darginskij,0.0
+tsezskij,gdymsko-fijskij lezginskij,0.0
+tsezskij,ginuhskij,0.09055118110236221
+tsezskij,kadarskij darginskij,0.0
+tsezskij,kajtagskij darginskij,0.0
+tsezskij,karatinskij,0.0
+tsezskij,kubachinskij darginskij,0.0
+tsezskij,kumykskij,0.0
+tsezskij,lakskij,0.0
+tsezskij,lezginskij,0.0
+tsezskij,megebskij,0.0
+tsezskij,muirinskij darginskij,0.0
+tsezskij,rutul'skij,0.0
+tsezskij,sirhinskij darginskij,0.0
+tsezskij,tabasaranskij,0.0
+tsezskij,tukitinskij,0.0
+tsezskij,hnovskij rutul'skij,0.0
+tsezskij,tsahurskij,0.0
+tsezskij,tsezskij,0.0
+tsezskij,tsudaharskij darginskij,0.0
+tsezskij,chiragskij darginskij,0.0
+tsudaharskij darginskij,avarskij,0.0
+tsudaharskij darginskij,agul'skij,0.0
+tsudaharskij darginskij,azerbajdzhanskij,0.0
+tsudaharskij darginskij,akushinskij darginskij,0.7014925373134329
+tsudaharskij darginskij,andijskij,0.0
+tsudaharskij darginskij,ahvahskij,0.0
+tsudaharskij darginskij,bagvalinskij,0.0
+tsudaharskij darginskij,bezhtinskij,0.0
+tsudaharskij darginskij,gapshiminskij darginskij,0.0
+tsudaharskij darginskij,gdymsko-fijskij lezginskij,0.0
+tsudaharskij darginskij,ginuhskij,0.0
+tsudaharskij darginskij,kadarskij darginskij,0.0
+tsudaharskij darginskij,kajtagskij darginskij,0.0
+tsudaharskij darginskij,karatinskij,0.0
+tsudaharskij darginskij,kubachinskij darginskij,0.0
+tsudaharskij darginskij,kumykskij,0.2537313432835821
+tsudaharskij darginskij,lakskij,0.0
+tsudaharskij darginskij,lezginskij,0.0
+tsudaharskij darginskij,megebskij,0.0
+tsudaharskij darginskij,muirinskij darginskij,0.0
+tsudaharskij darginskij,rutul'skij,0.0
+tsudaharskij darginskij,sirhinskij darginskij,0.0
+tsudaharskij darginskij,tabasaranskij,0.0
+tsudaharskij darginskij,tukitinskij,0.0
+tsudaharskij darginskij,hnovskij rutul'skij,0.0
+tsudaharskij darginskij,tsahurskij,0.0
+tsudaharskij darginskij,tsezskij,0.0
+tsudaharskij darginskij,tsudaharskij darginskij,0.0
+tsudaharskij darginskij,chiragskij darginskij,0.0
+chiragskij darginskij,avarskij,0.0
+chiragskij darginskij,agul'skij,0.22916666666666666
+chiragskij darginskij,azerbajdzhanskij,0.1875
+chiragskij darginskij,akushinskij darginskij,0.3229166666666667
+chiragskij darginskij,andijskij,0.0
+chiragskij darginskij,ahvahskij,0.0
+chiragskij darginskij,bagvalinskij,0.0
+chiragskij darginskij,bezhtinskij,0.0
+chiragskij darginskij,gapshiminskij darginskij,0.0
+chiragskij darginskij,gdymsko-fijskij lezginskij,0.0
+chiragskij darginskij,ginuhskij,0.0
+chiragskij darginskij,kadarskij darginskij,0.0
+chiragskij darginskij,kajtagskij darginskij,0.0
+chiragskij darginskij,karatinskij,0.0
+chiragskij darginskij,kubachinskij darginskij,0.0
+chiragskij darginskij,kumykskij,0.0
+chiragskij darginskij,lakskij,0.2604166666666667
+chiragskij darginskij,lezginskij,0.0
+chiragskij darginskij,megebskij,0.0
+chiragskij darginskij,muirinskij darginskij,0.0
+chiragskij darginskij,rutul'skij,0.0
+chiragskij darginskij,sirhinskij darginskij,0.0
+chiragskij darginskij,tabasaranskij,0.0
+chiragskij darginskij,tukitinskij,0.0
+chiragskij darginskij,hnovskij rutul'skij,0.0
+chiragskij darginskij,tsahurskij,0.0
+chiragskij darginskij,tsezskij,0.0
+chiragskij darginskij,tsudaharskij darginskij,0.0
+chiragskij darginskij,chiragskij darginskij,0.0
