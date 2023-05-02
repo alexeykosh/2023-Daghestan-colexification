@@ -1,7 +1,7 @@
 library(tidyverse)
 library(ggalluvial)
 
-theme_set(theme_bw())
+theme_set(theme_void())
 
 data <- read.csv('data/edges.csv')
 
@@ -14,9 +14,8 @@ data %>%
          target = factor(target)) %>%
   ggplot(aes(axis1 = source, axis2 = target, y = source_count)) +
   geom_alluvium(aes(fill = source), width = 1/12) +
-  geom_stratum(width = 1/12, fill = 'grey') +
+  geom_stratum(width = 1/3) +
   geom_text(stat = 'stratum', aes(label = after_stat(stratum)), size = 3) +
   geom_text(stat = 'alluvium', aes(label = after_stat(stratum)), size = 3) +
   scale_x_discrete(limits = c('source', 'target')) +
-  ggtitle('Alluvial plot of the data') +
   theme(legend.position = 'none')
